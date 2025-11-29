@@ -22,11 +22,11 @@ Kaggle data set containing sleep, activity, and lifestyle data for 374 men and w
 ## Analysis Results
 
 ### Total Daily Step Count
-![Total Daily Steps](Steps.png)
+![Total Daily Steps](Total Steps.png)
 Total daily step counts were combined from both datasets and illustrated using a density plot from the base R package. A mean value of **7116.336 daily steps** was calculated and indicated by a blue dashed line. The data shows slight right skewing.
 
 ### Total Minutes Asleep
-![Total Minutes Asleep](Asleep.png)
+![Total Minutes Asleep](Total Minutes Asleep.png)
 Total minutes asleep were combined from both datasets and illustrated using a density plot from the base R package. A mean value of **427.9251 minutes** was calculated and indicated by a red dashed line. The data shows two large peaks at around 360 and 450 minutes.
 
 ---
